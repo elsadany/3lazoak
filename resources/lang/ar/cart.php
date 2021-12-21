@@ -1,0 +1,38 @@
+<?php
+return [
+    'total'=>'الاجمالى',
+    'total_price'=>'السعر الاجمالى',
+    'image'=>'الصورة',
+    'product'=>'المنتج',
+    'price'=>'السعر',
+    'quantity'=>'الكميه',
+    'add_address'=>'اضافة عنوان',
+    'address_name'=>'اسم العنوان',
+    'city'=>'المدينة',
+    'district'=>'المنطقة',
+    'address'=>'العنوان',
+    'note'=>'ملاحظات',
+    'continue'=>'استمرار',
+    'sign_in_to_continue'=>'سجل الدخول للاستمرار',
+    'continue_shpping'=>'استمر ف التسوق',
+    'confirm_order'=>'تأكيد الطلب',
+    'checkout'=>'الدفع',
+    'delivery_coast'=>'تكاليف الشحن',
+    'subtotal'=>'تكلفة المنتجات',
+    'address'=>'العنوان',
+    'order_summary'=>'ملخص الطلب',
+    'validate_address'=>'من فضلك اختار عنوان',
+    'validate'=>[
+        'name'=>'من فضلك ادخل اسم ',
+        'city_id'=>'من فضلك ادخل المنطقة',
+        'district'=>'من فضلك ادخل منطقة التوصيل',
+        'address'=>'من فضلك ادخل عنوان صحيح',
+    ],
+    'discount'=>'تخفيض',
+    'promocode'=>'رمز ترويجي',
+    'invalide_promo'=>'رمز ترويجى خاطىء',
+    'check'=>'تحقيق',
+    'shipping'=>'تحقيق',
+    
+    
+];

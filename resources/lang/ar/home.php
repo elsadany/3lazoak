@@ -1,0 +1,32 @@
+<?php
+return [
+    'view_all'=>'مشاهدة الكل',
+    'buy_now'=>'اشترى',
+    'choose'=>'حدد أختيارك',
+    'currency'=>'ر.ع',
+    'language'=>'English',
+    'search'=>'بحث',
+    'wishlist'=>'المفضلة',
+    'contact'=>'اتصل بنا',
+    'about'=>'من نحن',
+    'privacy'=>'الشروط والأحكام',
+    'subject'=>'العنوان',
+    'message'=>'الرساله',
+    'send'=>'أرسل',
+    'contact'=>'أتصل بنا',
+    'about'=>'من نحن',
+    'follow-us'=>'تابعنا',
+    'hot-links'=>'الشركه',
+    'stay-in-touch'=>'أشترك معنا',
+    'snapchat'=>'سناب شات',
+    'instagram'=>'انستجرام',
+    'whatsapp'=>'واتساب',
+    'myaccount'=>'حسابى',
+    'order'=>'طلباتى',
+    'mycart'=>'عربة التسوق',
+    'customer_service'=>'خدمة العملاء',
+    'enter_email'=>'ادخل ايميلك هنا',
+    'hamid_store'=>'حامد ستور',
+    'categories'=>'الأقسام'
+
+];
